@@ -26,3 +26,6 @@ I'm currently working to take my Data Structures and Algorithms to the next leve
 - [Bootcamp Brokers](https://github.com/Marcus-Kim/Bootcamp-Brokers)
 - [SlackLine](https://github.com/Marcus-Kim/SlackLine)
 - [BookMe](https://github.com/Marcus-Kim/API-project)
+
+### Contact Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcuskim1/) or reach me at marcuskim.dev@gmail.com
