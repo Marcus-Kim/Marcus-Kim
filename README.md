@@ -1,6 +1,8 @@
 ## Hi, nice to meet you! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcuskim1)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcuskim1) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuskim1)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://wellfound.com/u/marcus-kim-4)
 
 My name is Marcus Kim, a full-stack software engineer located in Chandler, AZ who is passionate about coding. I have a Bachelor of Arts focused in Marketing and Real Estate from *Arizona State University*. My friends and peers in the tech industry have inspired me to devote myself to software engineering which I absolutely love! I'm always working on projects or brushing up my skills, so come by to see whats new!
 
